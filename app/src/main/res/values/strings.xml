@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">WeaterApplication</string>
+    <string name="API_KEY">f9866fe56db682a308f8290accb7a3c0</string>
+
+
+    <string name="temperature">%d\u00b0</string>
+    <string name="high_temperature">%d\u00b0/</string>
+    <string name="low_temperature">%d\u00b0</string>
+    <string name="lastUpdated">Last updated: %s</string>
+    <string name="weather_icon">weather icon</string>
+    <string name="hourly_temperature">%d\u00b0</string>
+
+    <string name="current_weather">Current Weather</string>
+
+    <string name="feelsLike">Feels Like %d\u00b0</string>
+    <string name="wind">%s %d Km/h</string>
+    <string name="humidity">%d %%</string>
+    <string name="pressure">%d mbar</string>
+    <string name="visibility">%d km</string>
+    <string name="clouds">%d %%</string>
+
+    <string name="wind_text">Wind</string>
+    <string name="humidity_text">Humidity</string>
+    <string name="pressure_text">Pressure</string>
+    <string name="visibility_text">Visibility</string>
+    <string name="clouds_text">Clouds</string>
+    <string name="sunrise">Sunrise</string>
+    <string name="sunset">Sunset</string>
+    <string name="setting">Settings</string>
+
+    <!--Settings For Units Preference-->
+    <string name="unit_default">metric</string>
+    <string name="unit_key">unit</string>
+    <string name="unit_label">Units</string>
+
+    <!--Unit Label-->
+    <string name="celsius_label">\u00b0C</string>
+    <string name="fahrenheit_label">\u00b0F</string>
+
+
+    <!--Unit Values-->
+    <string name="celsius_value">metric</string>
+    <string name="fahrenheit_value">imperial</string>
+
+    <string name="no_internet_connection">No Internet Connection</string>
+    <string name="detect">Detect</string>
+
+</resources>
